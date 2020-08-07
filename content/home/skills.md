@@ -21,8 +21,10 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  #icon = "chart-line"
+  icon = "sn_svg"
+  #icon_pack = "fas"
+  icon_pack = "custom"
   name = "Transkription auf Knopfdruck"
   description = "Coming Soon"  
   
