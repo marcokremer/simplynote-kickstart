@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marco Kremer
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Co-founder of Simply Note
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Simply Note
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
