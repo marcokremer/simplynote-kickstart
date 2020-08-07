@@ -22,7 +22,8 @@ subtitle = ""
   
 [[feature]]
   #icon = "chart-line"
-  icon = "sn_svg"
+  #icon = "sn_svg"
+  icon = "simply_note_final__cut"
   #icon_pack = "fas"
   icon_pack = "custom"
   name = "Transkription auf Knopfdruck"
