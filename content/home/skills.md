@@ -15,25 +15,25 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
-  name = ""
-  description = ""
+ # icon = ""
+ # icon_pack = ""
+ # name = ""
+ # description = ""
   
 [[feature]]
   icon = "chart-line"
-  #icon = "sn_svg"
-  #icon = "simply_note_final__cut"
+  # icon = "sn_svg"
+  # icon = "simply_note_final__cut"
   icon_pack = "fas"
-  #icon_pack = "custom"
+  # icon_pack = "custom"
   name = "Transkription auf Knopfdruck"
   description = "Coming Soon"  
   
 [[feature]]
-  icon = ""
-  icon_pack = ""
-  name = ""
-  description = ""
+  # icon = ""
+  # icon_pack = ""
+  # name = ""
+  # description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
