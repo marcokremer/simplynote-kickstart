@@ -24,3 +24,52 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "http://simply-note.netlify.app/*"
+  to = "http://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "https://simply-note.netlify.app/*"
+  to = "https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://www.simply-note.com/*"
+  to="http://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="https://www.simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://simply-note.com/*"
+  to="http://www.simply-note.de/:splat"
+  force = true
+  status = 301
+  
+[[redirects]]
+  from="https://simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://simply-note.de/*"
+  to="http://www.simply-note.de/:splat"
+  force = true
+  status = 301
+  
+[[redirects]]
+  from="https://simply-note.de/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
